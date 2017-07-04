@@ -1,2 +1,2 @@
-We were wanderers from the beginning.
+#! Using git pull origin master
 #! Initialising first commit.
